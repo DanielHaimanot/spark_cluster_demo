@@ -1,0 +1,1 @@
+Short Spark/Hadoop demo used for a workshop. We are processing UK home sales data set on a 4-node AWS cluster with Python. 
